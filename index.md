@@ -9,8 +9,8 @@
 - School: University of California San Diego
 - Year: 2nd
 - Major: Computer Engineering
-For my background, please see[this page] (README.md).
-For my coding skills, please see [this section] (#favorite-programming-languages).
+For my background, please see [this page](README.md).
+For my coding skills, please see [this section](#favorite-programming-languages).
 
 ## Favorite Programming Languages
 
@@ -38,7 +38,7 @@ I like watching MLB and NPB (Japan's baseball league).
 - Favorite players: Mookie Bets, Shohei Ohtani, Yoshinobu Yamamoto
 
 ### NPB
-- Favorite team: **[Hanshin Tigers] (https://hanshintigers.jp/)**
+- Favorite team: **[Hanshin Tigers](https://hanshintigers.jp/)**
 - Favorite Players: Yusuke Ohyama, Teruaki Sato, Shota Morishita 
 
 ## Today's Classes
