@@ -5,4 +5,4 @@ Shota's User Page
 
 Python
 
-My profile available [here](index.md).
+My profile available [here](https://shotayasuraoka.github.io/CSE110-Lab1/).
