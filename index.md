@@ -1,6 +1,6 @@
 # Shota Yasuraoka
 
-<img src="ビジネス写真.jpg" alt="My Picture" width="100"/>
+<img src="ビジネス写真.jpg" alt="My Picture" width="300"/>
 
 ## General Info
 
@@ -19,7 +19,7 @@ For my coding skills, please see [this section](#favorite-programming-languages)
 2. JavaScript/TypeScript
    - Two year experience in React based projects
      - Intership as an iOS app engineer
-     - Co-found a startup company for QR code order at restaurants
+     - Co-found a startup company for QR code orders at restaurants
 3. Java
    - One year experience
 
@@ -39,7 +39,8 @@ I like watching MLB and NPB (Japan's baseball league).
 
 ### NPB
 - Favorite team: **[Hanshin Tigers](https://hanshintigers.jp/)**
-- Favorite Players: Yusuke Ohyama, Teruaki Sato, Shota Morishita 
+- Favorite Players: Yusuke Ohyama, Teruaki Sato, Shota Morishita
+~~**I hate _Yomiuri Giants_.**~~
 
 ## Today's Classes
 
