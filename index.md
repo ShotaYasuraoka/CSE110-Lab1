@@ -40,8 +40,7 @@ I like watching MLB and NPB (Japan's baseball league).
 ### NPB
 - Favorite team: **[Hanshin Tigers](https://hanshintigers.jp/)**
 - Favorite Players: Yusuke Ohyama, Teruaki Sato, Shota Morishita
-
-~~**I hate _Yomiuri Giants_.**~~
+- ~~**I hate _Yomiuri Giants_.**~~
 
 ## Today's Classes
 
