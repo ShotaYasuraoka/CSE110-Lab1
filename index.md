@@ -9,7 +9,9 @@
 - School: University of California San Diego
 - Year: 2nd
 - Major: Computer Engineering
+
 For my background, please see [this page](README.md).
+
 For my coding skills, please see [this section](#favorite-programming-languages).
 
 ## Favorite Programming Languages
